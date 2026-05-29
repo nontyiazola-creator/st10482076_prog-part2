@@ -1,0 +1,34 @@
+ChangeLog 
+
+13 May 2026 - Project Setup Completed
+
+On this day the WPF Cybersecurity Chatbot project was created in Visual Studio 2022. The .NET 8.0 environment was configured and the GitHub repository was set up. The main project structure was created, including ChatBot.cs, KeywordResponder.cs, SentimentDetector.cs, and MemoryStore.cs.
+
+14 May 2026 - GUI Design Completed
+
+The graphical user interface was designed using WPF. The chat display area, user input textbox, Send button, and ScrollViewer were added. The interface was improved with better spacing and an ASCII art header to enhance the user experience.
+
+15 May 2026 - Keyword Recognition System Completed
+
+The KeywordResponder class was implemented to detect cybersecurity-related keywords. Topics such as phishing, malware, password safety, VPN security, and online scams were added. The chatbot was also improved with multiple random responses and fallback handling for unknown inputs.
+
+17 May 2026 - Sentiment Detection and Memory Completed
+
+The SentimentDetector class was developed to identify user emotions such as worried, curious, and frustrated. The chatbot was enhanced to provide automatic cybersecurity tips based on detected sentiment. The MemoryStore class was also implemented to store and recall the user’s name for personalised responses.
+
+19 May 2026 - ChatBot Logic Integration Completed
+
+The MainWindow.xaml.cs file was connected to ChatBot.cs. The ProcessInput routing system was implemented, including follow-up conversation handling using phrases like “tell me more” and “explain more”. Topic tracking was added using _lastTopic and overall response flow was improved.
+
+21 May 2026 - Voice Greeting and Testing Completed
+
+The greeting.wav file was added to provide a voice greeting on startup. Audio settings were configured correctly. The application was tested for Enter key input, scrolling behaviour, empty input handling, and fallback responses to ensure stability.
+
+24 May 2026 - GitHub and Documentation Completed
+
+GitHub Actions CI was implemented to automatically build the project. Tagged releases v2.0 and v2.1 were created. The README documentation was updated with setup instructions, screenshots, and the YouTube video link.
+
+28 May 2026 - Final Project Completion
+
+Final testing was completed to ensure all features worked correctly, including keyword recognition, sentiment detection, memory, and follow-up conversation flow. The project was successfully built, cleaned, and prepared for submission. The repository was finalised and verified for deployment.
+

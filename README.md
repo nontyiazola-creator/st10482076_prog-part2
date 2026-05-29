@@ -43,9 +43,12 @@ GitHub Actions Continuous Integration (CI) was also implemented to automatically
 
 8. GitHub Docs. *Basic Writing and Formatting Syntax*. Available at:
    https://docs.github.com/en/get-started/writing-on-github/basic-writing-and-formatting-syntax
+   <img width="1762" height="888" alt="Screenshot 2026-05-29 215941" src="https://github.com/user-attachments/assets/f477eca6-e379-4794-8950-1ea61aa1ba24" />
+# Youtube Video Presentation Link 
+https://youtu.be/-49TxsBR71c?si=rAsGLyZTI63kdUbW
 
-9. Microsoft Learn. *WPF Controls Documentation*. Available at:
+10. Microsoft Learn. *WPF Controls Documentation*. Available at:
    https://learn.microsoft.com/en-us/dotnet/desktop/wpf/controls/
 
-10. Microsoft Learn. *.NET Desktop Guide*. Available at:
+11. Microsoft Learn. *.NET Desktop Guide*. Available at:
     https://learn.microsoft.com/en-us/dotnet/desktop/wpf/
